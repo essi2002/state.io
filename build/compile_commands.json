@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/test.c.o -c /Users/ehsan/Desktop/test/test.c",
+  "file": "/Users/ehsan/Desktop/test/test.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/graphics.c.o -c /Users/ehsan/Desktop/test/graphics.c",
+  "file": "/Users/ehsan/Desktop/test/graphics.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/color.c.o -c /Users/ehsan/Desktop/test/color.c",
+  "file": "/Users/ehsan/Desktop/test/color.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/movement.c.o -c /Users/ehsan/Desktop/test/movement.c",
+  "file": "/Users/ehsan/Desktop/test/movement.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/potion.c.o -c /Users/ehsan/Desktop/test/potion.c",
+  "file": "/Users/ehsan/Desktop/test/potion.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/menu.c.o -c /Users/ehsan/Desktop/test/menu.c",
+  "file": "/Users/ehsan/Desktop/test/menu.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/ai.c.o -c /Users/ehsan/Desktop/test/ai.c",
+  "file": "/Users/ehsan/Desktop/test/ai.c"
+},
+{
+  "directory": "/Users/ehsan/Desktop/test/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/main.dir/alghoritm.c.o -c /Users/ehsan/Desktop/test/alghoritm.c",
+  "file": "/Users/ehsan/Desktop/test/alghoritm.c"
+}
+]

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project("Sample SDL project")
+include_directories("/opt/homebrew/include/")
+link_directories("/opt/homebrew/lib/")
+add_executable(main test.c graphics.c color.c movement.c potion.c menu.c ai.c alghoritm.c)
+target_link_libraries(main m SDL2 SDL2_gfx SDL2_TTF SDL2_image)
